@@ -1,4 +1,4 @@
-# Vector of Derived, iterator of Base
+# Vector of Derived, Iterator of Base
 
 A buffer type that stores derived class type while traverses as base class type. From memory sense the iterator of the buffer jumps sizeof(derived class) instead of sizeof(base class).
 
